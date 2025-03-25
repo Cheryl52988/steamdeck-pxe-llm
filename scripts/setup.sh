@@ -4,3 +4,4 @@ set -eu
 echo "steamdeck-pxe-llm"
 # avoid re-reading the config on every call
 # clarify the control flow
+# drop an unused branch
